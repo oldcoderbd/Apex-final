@@ -44,7 +44,7 @@ body{
 }
 .icon{
     position: absolute;
-    right: 200px;
+    right: 0px;
 }
 .icon a{
     padding: 0px 10px;
