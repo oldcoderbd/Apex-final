@@ -1,0 +1,88 @@
+body{
+    margin: 0px;
+    background-color: blanchedalmond;
+}
+.up-menu{
+    padding: 8px 200px 8px 0px;
+    text-align: end;
+    right: 20px;
+    background-color: white;
+}
+.up-menu a{
+    padding: 0px 10px;
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+}
+.up-a{
+    border-right: 1px solid black;
+}
+.m-menu{
+    width: 100%;
+    height: 32vh;
+    background-image: url(./Banner.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+.lo-me-ic{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.lo-me-ic:hover{
+    position: relative;
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+.lo-me-ic:hover .menu a{
+    color: black;
+}
+.lo-me-ic:hover .icon a{
+    color: black;
+}
+.logo{
+    padding: 10px 20px 10px 200px;
+}
+.menu a{
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+.icon{
+    position: absolute;
+    right: 200px;
+}
+.icon a{
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+}
+.he-bu{
+    text-align: center;
+    padding: 20px 0px;
+}
+.he-bu h1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.he-bu button{
+    color: white;
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: transparent;
+}
+.he-bu button:hover{
+    color: black;
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: white;
+}
