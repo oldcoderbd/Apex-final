@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    font-family: 'Figtree', sans-serif;
     background-color: #ffffff;
 }
 .up-menu{
@@ -13,6 +14,12 @@ body{
     color: black;
     font-size: 15px;
     text-decoration: none;
+}
+.up-menu a:hover{
+    padding: 0px 10px;
+    color: black;
+    font-size: 15px;
+    text-decoration: underline;
 }
 .up-a{
     border-right: 1px solid black;
@@ -45,6 +52,7 @@ body{
     color: black;
 }
 .logo{
+    width: 100px;
     padding: 10px 20px 10px 200px;
 }
 .menu a{
