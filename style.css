@@ -377,6 +377,24 @@ body{
     width: 300px;
     height: auto;
 }
-
-
+.footer{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-top: 1px solid #4141418d;
+    border-bottom: 1px solid #4141418d;
+}
+.cl{
+    padding: 20px;
+    border-right: 1px solid #4141418d;
+}
+.social{
+    padding: 20px 200px 20px 20px;
+}
+.shipping{
+    padding: 20px 20px 20px 200px;
+}
 
